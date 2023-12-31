@@ -29,4 +29,9 @@ cd AssetsApp
 ```sh
 mvn spring-boot:run
 ```
-If you want to create your own Spring Boot-based project visit https://start.spring.io/
+
+## Conclusion
+Note: If you want to create your own Spring Boot-based project visit https://start.spring.io/
+
+Congratulations, you have run the application.
+
